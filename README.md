@@ -1,3 +1,4 @@
+
 # A demo using Spring Boot and React
 
 ## Used:
@@ -6,4 +7,4 @@
 * MySQL
 * Spring data JPA
 * Lombok
-* React
+* React + Axios
